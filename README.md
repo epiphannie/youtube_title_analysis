@@ -7,3 +7,5 @@ The project itself is housed in a Jupyter notebook (youtube_titles_experiment.ip
 To run the project locally, you will need to download the two csv files also included in the repo:
 * USvideos.csv
 * parts_of_speech.csv
+
+Be advised, step 31 takes a little time to run (60 seconds?). Lots of crunching happening!
