@@ -3,3 +3,7 @@ This project uses the dataset "Trending Youtube Video Statistics" from Kaggle. Y
 The original goal of the project was to determine the most popular sentence structure of top trending Youtube videos. However, as you will see, the structure of video titles does not lend itself to a grammatical approach. Instead, this project focuses on the most common sequences of parts of speech in title segments and also reveals a few fun facts about the dataset.
 
 The project itself is housed in a Jupyter notebook (youtube_titles_experiment.ipynb), but can be downloaded in other formats as well.
+
+To run the project locally, you will need to download the two csv files also included in the repo:
+* USvideos.csv
+* parts_of_speech.csv
