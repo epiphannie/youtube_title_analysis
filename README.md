@@ -9,3 +9,4 @@ To run the project locally, you will need to download the two csv files also inc
 * parts_of_speech.csv
 
 Be advised, step 31 takes a little time to run (60 seconds?). Lots of crunching happening!
+There is also an intentionally triggered testing error in cell 15.
